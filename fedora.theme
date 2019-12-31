@@ -1,0 +1,6 @@
+[Scheme]
+Name=Fedora
+ColorForeground=#ffffff
+ColorBackground=#000000
+ColorPalette=#000000;#e59728;#79db32;#e59728;#3c6eb4;#db3279;#3c6eb4;#dedede;#4c4c4c;#e59728;#79db32;#e59728;#3c6eb4;#db3279;#3c6eb4;#ffffff
+ColorBoldIsBright=FALSE
